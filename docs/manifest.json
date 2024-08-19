@@ -87,6 +87,12 @@
 			]
 		},
 		{
+			"title": "Quickstart",
+			"description": "Get started with Coder",
+			"path": "./quickstart.md",
+			"icon_path": "./images/icons/home.svg"
+		},
+		{
 			"title": "Platforms",
 			"description": "Platform-specific guides using Coder",
 			"path": "./platforms/README.md",
